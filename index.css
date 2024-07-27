@@ -86,11 +86,11 @@ body{
 
 }
 .cv{
-    background-color: #dedede;
+    background-color: #2F3645;
 }
 .cv a{
     text-decoration: none;
-    color: #000;
+    color: white;
     
 }
 .mainText{
@@ -111,6 +111,7 @@ body{
         }
         body{
            font-size: 13px;
+           overflow-x: hidden;
         }
 
 }
